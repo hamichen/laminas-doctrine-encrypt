@@ -1,5 +1,5 @@
 {
-  "name": "somecoding/laminas-doctrine-encrypt",
+  "name": "hamichen/laminas-doctrine-encrypt",
   "description": "Provides property encryption and hashing for Doctrine Entities when used within Laminas",
   "keywords": [
     "zf3",
@@ -17,6 +17,10 @@
       "name": "Dwarfex",
       "email": "dwarfex@somecoding.de",
       "homepage": "https://somecoding.de"
+    },
+    {
+      "name": "hamichen",
+      "email": "yingkuang.chen@gmail.com"      
     }
   ],
   "require": {
